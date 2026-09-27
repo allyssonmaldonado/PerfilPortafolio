@@ -168,11 +168,6 @@ nav a:hover {
     margin: 10px auto;
 }
 
-
-/* =========================
-   SOBRE MÍ
-========================= */
-
 .sobre-contenido {
     display: flex;
     align-items: center;
@@ -195,11 +190,6 @@ nav a:hover {
 .sobre-contenido p {
     margin-bottom: 15px;
 }
-
-
-/* =========================
-   HABILIDADES
-========================= */
 
 .habilidades {
     width: 100%;
